@@ -10,6 +10,24 @@ Torned.io is a modern and feature-rich web application designed with the latest 
 - [Usage](#usage)
 - [License](#license)
 
+
+
+![Screenshot (440)](https://github.com/user-attachments/assets/14cc35f6-e30d-4652-8b4c-a44f1db5ccf4)
+
+![Screenshot (441)](https://github.com/user-attachments/assets/51b2c5fb-56cc-45f1-893e-201384316af7)
+
+![Screenshot (442)](https://github.com/user-attachments/assets/6cdbb232-216b-4f1d-82f2-70dbdab41edf)
+
+![Screenshot (443)](https://github.com/user-attachments/assets/7bfb6a06-0ecb-4bc4-bd3c-21167c03c4e4)
+
+![Screenshot (444)](https://github.com/user-attachments/assets/c6dd9d3f-88e1-495a-b1b5-083788f40703)
+
+![Screenshot (445)](https://github.com/user-attachments/assets/b570b317-e223-4f41-956b-546f9d64e2ef)
+
+
+
+
+
 ## Project Description
 
 Torned.io is a sophisticated web application offering the following features:
